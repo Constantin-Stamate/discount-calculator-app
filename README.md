@@ -1,6 +1,12 @@
 # Discount Calculator App
 
-<img alt="Demo Image" src="assets/images/discount-calculator-demo.png" width="300" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img alt="Demo Image" src="assets/images/discount-calculator-demo.png" width="300" />
+    </td>
+  </tr>
+</table>
 
 ## Overview
 
